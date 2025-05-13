@@ -8,7 +8,7 @@ O objetivo do trabalho é aplicar técnicas de aprendizado supervisionado para *
 
 Utilizamos o dataset **Deezer Ego Nets**, que contém 9.629 grafos não direcionados, cada um representando a rede de seguidores de um usuário do leste europeu. O nó central (ego) de cada grafo possui um rótulo binário indicando o gênero (masculino ou feminino).
 
-- Fonte: [SNAP - Stanford Network Analysis Project](https://snap.stanford.edu/data/ego-Deezer.html)
+- Fonte: [SNAP - Stanford Network Analysis Project](https://snap.stanford.edu/data/deezer_ego_nets.html)
 - Tarefa: Classificação binária
 - Atributos dos nós: Nenhum
 - Atributos das arestas: Nenhum
